@@ -1,3 +1,3 @@
 # firefox hosts
 
-tracker urls in firefox
+list of tracker urls in firefox in hosts format
