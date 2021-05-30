@@ -1,3 +1,3 @@
-# firefox-hosts
+# firefox hosts
 
-blocklists for firefox
+tracker urls in firefox
