@@ -8,7 +8,7 @@
 0.0.0.0 download.cdn.mozilla.net
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 versioncheck.addons.mozilla.org
-# 0.0.0.0 versioncheck-bg.addons.mozilla.org
+0.0.0.0 versioncheck-bg.addons.mozilla.org
 0.0.0.0 content-signature.cdn.mozilla.net
 0.0.0.0 d2o47bxgqzkcc3.cloudfront.net
 0.0.0.0 bouncer-bouncer-elb.prod.mozaws.net
