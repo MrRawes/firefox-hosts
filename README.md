@@ -5,4 +5,4 @@ compiled by [LocalFigurez](https://privatebin.net/?fd65935fdd7b6f2e#4UIRLdB93OXc
 
 ## WARNING
 
-this will break updating
+this will break updating so if you have downloaded firefox from mozilla's website you should use [ηMatrix](https://gitlab.com/vannilla/ematrix) with [LegacyFox](https://git.gir.st/LegacyFox.git)
