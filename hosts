@@ -178,3 +178,7 @@
 0.0.0.0 f5f7ln7s.gvtl.com
 0.0.0.0 discovery.addons.mozilla.org
 0.0.0.0 sb-ssl.google.com
+0.0.0.0 tracking-protection.cdn.mozilla.net
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 ciscobinary.openh264.org
+0.0.0.0 services.addons.mozilla.org
