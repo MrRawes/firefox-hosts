@@ -5,6 +5,8 @@ compiled by [LocalFigurez](https://privatebin.net/?fd65935fdd7b6f2e#4UIRLdB93OXc
 
 for any contributions [email me](mailto:MrRawes@protonmail.com?Subject=firefox-hosts)
 
+test
+
 ## WARNING
 
 this will break updating
