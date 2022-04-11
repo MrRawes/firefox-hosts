@@ -1,0 +1,14 @@
+# The JSONPath filter expression used to identify which PRs to close.
+# The data filtered is the pull request data along with other metadata passed in
+# by probot.
+# See http://linkremoved/
+# `true` will close all PRs.
+filters:
+  - true
+
+# The message to post to the closed PR.
+commentBody: |
+  for ANY contributions email me at MrRawes@protonmail.com?Subject=firefox-hosts
+
+# Whether to add a label to the closed PR.
+addLabel: false
