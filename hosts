@@ -119,6 +119,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing-cache.google.com
+0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 redirector.gvtl.com
 0.0.0.0 r4---sn-f5f7ln7s.gvtl.com
 0.0.0.0 gvtl.com
