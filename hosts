@@ -3,7 +3,7 @@
 0.0.0.0 self-repair.mozilla.org
 0.0.0.0 blocklist.addons.mozilla.org
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 api.getpocket.com
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing-cache.google.com
-# Uncomment if your not using Peter Lowe’s Ad and tracking server list 0.0.0.0 incoming.telemetry.mozilla.org
