@@ -6,7 +6,6 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 download.mozilla.org
 0.0.0.0 download.cdn.mozilla.net
-0.0.0.0 aus5.mozilla.org
 0.0.0.0 versioncheck.addons.mozilla.org
 0.0.0.0 versioncheck-bg.addons.mozilla.org
 0.0.0.0 content-signature.cdn.mozilla.net
