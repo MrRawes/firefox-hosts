@@ -5,4 +5,4 @@ compiled by [LocalFigurez](https://privatebin.net/?fd65935fdd7b6f2e#4UIRLdB93OXc
 
 ## WARNING
 
-if you have downloaded firefox from mozilla's website you should use [nuTensor](https://github.com/Minimalist73/nuTensor)
+this will break updating
