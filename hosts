@@ -49,6 +49,7 @@
 0.0.0.0 api.getpocket.com
 0.0.0.0 normandy-cloudfront.cdn.mozilla.net
 0.0.0.0 normandy.cdn.mozilla.net
+0.0.0.0 normandy.services.mozilla.com
 0.0.0.0 mozilla.dorando.at
 0.0.0.0 www.mozilla.org
 0.0.0.0 www.mozilla.de
@@ -61,6 +62,7 @@
 0.0.0.0 de.malware-error.mozilla.com
 0.0.0.0 en.phish-error.mozilla.com
 0.0.0.0 en.phish-report.mozilla.com
+0.0.0.0 de.phish-report.mozilla.com
 0.0.0.0 en.malware-error.mozilla.com
 0.0.0.0 malware-error.mozilla.com
 0.0.0.0 phish-error.mozilla.com
