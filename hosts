@@ -3,4 +3,4 @@
 0.0.0.0 self-repair.mozilla.org
 0.0.0.0 blocklist.addons.mozilla.org
 0.0.0.0 snippets.cdn.mozilla.net
-# Uncomment if using Peter Lowe’s Ad and tracking server list 0.0.0.0 incoming.telemetry.mozilla.org
+# Uncomment if not using Peter Lowe’s Ad and tracking server list 0.0.0.0 incoming.telemetry.mozilla.org
