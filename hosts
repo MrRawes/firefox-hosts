@@ -29,6 +29,8 @@
 0.0.0.0 code.cdn.mozilla.net
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
+0.0.0.0 ostats.mozilla.com
+0.0.0.0 sostats.mozilla.com
 0.0.0.0 data.mozilla.com
 0.0.0.0 experiments.mozilla.org
 0.0.0.0 fhr.cdn.mozilla.net
