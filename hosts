@@ -28,7 +28,6 @@
 0.0.0.0 content-signature.cdn.mozilla.net
 0.0.0.0 crash-stats.mozilla.com
 0.0.0.0 crash-stats.mozilla.org
-0.0.0.0 d2o47bxgqzkcc3.cloudfront.net
 0.0.0.0 data.mozilla.com
 0.0.0.0 de.malware-error.mozilla.com
 0.0.0.0 de.phish-error.mozilla.com
@@ -69,7 +68,6 @@
 0.0.0.0 malware-error.mozilla.com
 0.0.0.0 mana.mozilla.org
 0.0.0.0 mdn.mozillademos.org
-0.0.0.0 metrics.mozilla.com
 0.0.0.0 monitor.firefox.com
 0.0.0.0 mozaws.net
 0.0.0.0 mozilla.com
@@ -124,6 +122,4 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.heroku.com
 0.0.0.0 www.mozilla.com
-0.0.0.0 www.mozilla.de
 0.0.0.0 www.mozilla.org
-0.0.0.0 www.mozilla.org.cdn.cloudflare.net 
